@@ -3,6 +3,7 @@ ECE Report
 Project Name
 
 Renewable Energy Generating System.
+
 Project Summary
 
 The project aims to develop a renewable energy system with a solar panel and windmill connected to an LED and a battery to store energy. The solar panel transforms sunlight into electricity, which powers the LED throughout the day, and a battery to store the electricity to be used at night. Similarly, the windmill uses wind energy to generate power, lighting an LED when the wind blows.
